@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GeniousPortfolio/static/css/main.6b1a303d.css",
+    "main.js": "/GeniousPortfolio/static/js/main.f031e316.js",
+    "index.html": "/GeniousPortfolio/index.html",
+    "main.6b1a303d.css.map": "/GeniousPortfolio/static/css/main.6b1a303d.css.map",
+    "main.f031e316.js.map": "/GeniousPortfolio/static/js/main.f031e316.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b1a303d.css",
+    "static/js/main.f031e316.js"
+  ]
+}
